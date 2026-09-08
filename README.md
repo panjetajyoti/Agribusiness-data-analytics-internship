@@ -40,7 +40,7 @@ A comprehensive 4-week end-to-end data analytics and quantitative evaluation sui
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/agribusiness-data-analytics-internship.git
+git clone https://github.com/panjetajyoti/agribusiness-data-analytics-internship.git
 cd agribusiness-data-analytics-internship
 ```
 **2. Environment Configuration**
